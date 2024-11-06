@@ -1,6 +1,6 @@
 #env-file
-AI_SERVICE_ENDPOINT="https://pratsss.cognitiveservices.azure.com/"
-AI_SERVICE_KEY="8chQHAaEK5y4pJNuGqrIBFMQftZrvTZcHkSAe8zVlRBcAXXMwJu3JQQJ99AKACYeBjFXJ3w3AAAAACOGdeno"
+AI_SERVICE_ENDPOINT="https://xxxxxxxx.cognitiveservices.azure.com/"
+AI_SERVICE_KEY="xxxxxxxxxxxx"
 
 #read-text.py
 from dotenv import load_dotenv
